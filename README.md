@@ -11,9 +11,3 @@ Benefits:
 
 1. Improved Customer Engagement: By centralizing customer information and interactions, businesses can easily access relevant data, enabling personalized and targeted communication. This enhances customer engagement and satisfaction, ultimately leading to stronger relationships and increased customer loyalty.
 2. Streamlined Workflow: The CRM application optimizes business processes by automating repetitive tasks, such as data entry and follow-ups. This saves time and increases productivity, allowing businesses to focus on building meaningful connections with customers and driving growth.
-
-Hosting on Vercel:
-
-The CRM application is hosted on Vercel, a reliable and scalable hosting platform. This ensures high performance and availability, allowing businesses to handle increasing user traffic and data demands seamlessly.
-
-In conclusion, this customer relationship management web application built with Django, styled with Bootstrap, and powered by a MySQL database, empowers businesses to efficiently manage customer interactions, improve engagement, and streamline workflows. Hosted on Vercel, the application offers a secure and scalable solution for businesses seeking effective customer relationship management.
